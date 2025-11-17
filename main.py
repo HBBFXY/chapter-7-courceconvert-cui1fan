@@ -21,4 +21,4 @@ for line in content:
 
 # 将处理后的内容保存到新文件，例如new_random_int.py
 with open('new_random_int.py', 'w') as f:
-    f.writelines(processed_lines)自行完成
+    f.writelines(processed_lines)
